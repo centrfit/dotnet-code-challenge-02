@@ -65,5 +65,5 @@ You will be assesed on the overall production quality of your work and we will l
 
 ## How do I submit my code challenge?
 
-Clone this repository and once you have completed the task, push it to a public repository and notify your recruiter with the link once it is ready for review.
+Clone this repository and once you have completed the task, push it to a private repository of your own. Your recruiter will instruct you to add someone from loup as a collaborator to your repository so that it can be reviewed once it is ready.
 
