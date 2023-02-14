@@ -65,5 +65,8 @@ You will be assesed on the overall production quality of your work and we will l
 
 ## How do I submit my code challenge?
 
-Clone this repository and once you have completed the task, push it to a private repository of your own. Your recruiter will instruct you to add someone from Centr as a collaborator to your repository so that it can be reviewed once it is ready.
+Clone the github test repository and push it to a private repository. Once complete, add the below github collaborators to the private repository so that we may review the test.
+
+- joshua-hayes
+- ramosjacc
 
